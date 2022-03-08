@@ -1,0 +1,5 @@
+BasicTest:testFailUnderflow() (gas: 351)
+BasicTest:testNumberIs42() (gas: 301)
+OwnerUpOnlyTest:testFailIncrementAsNotOwner() (gas: 4064)
+OwnerUpOnlyTest:testIncrementAsNotOwner() (gas: 4918)
+OwnerUpOnlyTest:testIncrementAsOwner() (gas: 24661)
